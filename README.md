@@ -1,3 +1,13 @@
+Ebay scrape bot
+---------------
+
+Attribution: as created by
+[adewes](https://gist.github.com/adewes/c9b2a71457c6c6f01f2f), forked
+to my Github for future reference.
+
+Original README.md
+------------------
+
 To use this bot:
 
 * Download `ads_bot.py` and `requirements.txt`.
